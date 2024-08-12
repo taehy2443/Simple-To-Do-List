@@ -19,3 +19,5 @@
 3)할 일 삭제: 
   사용자가 원하지 않는 할 일을 목록에서 삭제할 수 있는 기능
   해당 할 일은 데이터베이스에서 삭제
+  ![image](https://github.com/user-attachments/assets/22683cd7-df67-4933-be95-8ea1df9cae4e)
+
